@@ -1,0 +1,26 @@
+:root{
+  --twitter-blue: #1da1f2;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+body{
+  color: #0f1419;
+  -webkit-font-smoothing: antialiased; /*Deixa a fonte dos navegadores mais nitida*/
+}  
+
+body, button, input, textarea{
+  font: 400 1rem Roboto, sans-serif;
+}
+
+button{
+  cursor:pointer;
+}
+
+a{
+  color: inherit ;
+}
